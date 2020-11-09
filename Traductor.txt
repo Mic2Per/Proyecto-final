@@ -52,3 +52,4 @@ virtual virtual 50
 void nulo 51
 volatile volatil 52
 while mientras 53
+key llave 1000
